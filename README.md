@@ -32,8 +32,8 @@
 
 ## 🛠️ Tech Stack
 
-HTML
-CSS
+- HTML
+- CSS
 
 ## 📌 Notes
 
